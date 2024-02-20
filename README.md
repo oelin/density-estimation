@@ -1,6 +1,6 @@
 # Literature on Generative Models
 
-## 1. Probabilistic Models
+## 1. Models
 
 ### 1.1. Autoregressive Models
 
@@ -131,7 +131,7 @@
 - [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2402.01203) (Yu et al., 2022)
 - [SoundStorm: Efficient Parallel Audio Generation](https://arxiv.org/abs/2305.09636) (Borsos et al., 2022)
 
-## 2.  Applications
+## 2.  Architectures
 
 ### 2.1. Text
 
