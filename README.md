@@ -1,6 +1,6 @@
 # Literature on Generative Models
 
-## 1. Theory
+## 1. Probabilistic Models
 
 ### 1.1. Autoregressive Models
 
