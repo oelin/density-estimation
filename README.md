@@ -4,14 +4,15 @@
 
 ### 1.1. Autoregressive Models
 
-- [Word $n$-gram Model](https://en.wikipedia.org/wiki/Word_n-gram_language_model) (wikipedia.org)
-- [DRAW: A Recurrent Neural Network for Image Generation](https://arxiv.org/pdf/1502.04623.pdf) (Gregor et al., 2015)
+- [A Neural Probabilistic Language Model](https://dl.acm.org/doi/pdf/10.5555/944919.944966) (Bengio et al., 2003)
+- [MADE: Masked Autoencoder for Distribution Estimation](introduction to language model arxiv) (Germain et al., 2015)
 - [Neural Autoregressive Density Estimation](https://arxiv.org/abs/1605.02226) (Uria et al., 2016)
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
 - [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) (Gu et al., 2021)
 - [Spectral State Space Models](https://arxiv.org/abs/2312.06837v2) (Agarwal et al., 2023)
 - [Mamba: Linear-time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) (Gu et al., 2023)
 - [GIVT: Generative Infinite-vocabulary Transformers](https://arxiv.org/abs/2312.02116) (Tschannen et al., 2023)
+- [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 
 ### 1.2. Diffusion Models
 
@@ -47,7 +48,6 @@
 
 ### 1.3. Energy-based Models
 
-- [Restricted Boltzmann Machine](https://en.wikipedia.org/wiki/Restricted_Boltzmann_machine) (wikipedia.org)
 - [Self-regularizing Restricted Boltzmann Machines](https://arxiv.org/abs/1912.05634v1) (Loukas, 2019)
 - [Implicit Generation and Generalization in Energy-based Models](https://arxiv.org/abs/1903.08689) (Du et al., 2019)
 - [How to Train Your Energy-based Models](https://arxiv.org/abs/2101.03288) (Song et al., 2021)
@@ -107,22 +107,35 @@
 
 ### 1.8. Variational Autoencoders
 
+- [The Helmholtz Machine](https://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf) (Dayan et al., 1995)
+- [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/abs/1402.0030) (Mnih et al., 2014)
 - [Autoencoding Variational Bayes](https://arxiv.org/abs/1312.6114) (Kingma et al., 2015)
+- [Hierarchical Variational Models](https://arxiv.org/abs/1511.02386) (Ranganath et al., 2015)
+- [Importance Weighted Autoencoders](https://arxiv.org/abs/1509.00519) (Burda et al., 2015)
 - [Ladder Variational Autoencoders](https://arxiv.org/abs/1602.02282) (Kaae et al., 2016)
+- [Discrete Variational Autoencoders](https://arxiv.org/abs/1609.02200) (Rolfe, 2016)
+- [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712) (Maddison et al., 2016)
+- [Categorical Reparameterization with Gumbel-softmax](https://arxiv.org/abs/1611.01144) (Jang et al., 2016)
 - [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (van den Oord et al., 2017)
 - [VAE With a VampPrior](https://arxiv.org/abs/1705.07120) (Tomczak et al., 2017)
 - [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) (Kingma et al., 2019)
 - [Generating Diverse High-fidelity Images with VQ-VAE-2](https://arxiv.org/abs/1906.00446) (Razavi et al., 2019)
+- [Preventing Posterior Collapse with Delta-VAEs](https://arxiv.org/abs/1901.03416) (Razavi et al., 2019)
+- [PixelVAE++: Improved PixelVAE with Discrete Prior](https://arxiv.org/abs/1908.09948) (Sadeghi et al., 2019)
+- [VIBA: A Very Deep Hierarchy of Latent Variables for Generative Modeling](https://arxiv.org/abs/1902.02102) (Maaloe et al., 2019)
 - [Taming Transformers for High-resolution Image Synthesis](https://arxiv.org/abs/2012.09841) (Esser et al., 2020)
 - [DVAE++: Discrete Variational Autoencoder with Overlapping Transformations](https://arxiv.org/abs/1802.04920) (Vahdat et al., 2018)
+- [DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors](https://arxiv.org/abs/1805.07445) (Vahdat et al., 2018)
 - [Diagnosing and Enhancing VAE Models](https://arxiv.org/abs/1903.05789) (Dai et al., 2019)
 - [A Closer Look at Disentangling in $\beta$-VAE](https://arxiv.org/abs/1912.05127) (Sikka et al., 2019)
 - [NVAE: A Deep Hierarchical Variational Autoencoder](https://arxiv.org/abs/2007.03898) (Vahdat et al., 2020)
 - [Dynamical Variational Autoencoders: A Comprehensive Survey](https://arxiv.org/abs/2008.12595) (Girin et al., 2020)
 - [Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images](https://arxiv.org/abs/2011.10650) (Child, 2020)
+- [Variational Hyper-encoding Networks](https://arxiv.org/abs/2005.08482) (Nguyen et al., 2020)
 - [TimeVAE: A Variational Auto-encoder for Multivariate Time Series Generation](https://arxiv.org/abs/2111.08095) (Desai et al., 2021)
 - [AdaVAE: Exploring Adaptive GPT-2s in Variational Auto-encoders for Language Modeling](https://arxiv.org/abs/2205.05862) (Tu et al., 2022)
 - [Disentangling Variational Autoencoders](https://arxiv.org/abs/2211.07700) (Pastrana, 2022)
+- [Latent Variable Modelling using Variational Autoencoders: A Survey](https://arxiv.org/abs/2206.09891) (Kalingeri, 2022)
 - [Structured World Modeling via Semantic Vector Quantization](https://arxiv.org/abs/2402.01203) (Wu et al., 2024)
 
 ### 1.9. Masked Generative Models
@@ -133,11 +146,23 @@
 
 ## 2.  Architectures
 
+It's practically impossible to compile an exhaustive list of architecture since dozens are released every day. We refer readers to resources such as [paperswithcode](https://paperswithcode.com) and [Hugging Face](https://huggingface.co) for up-to-date research. As for us, we list a few architectures that made a "big splash" when they were released.
+
 ### 2.1. Text
 
 #### 2.1.1. Text Generation
 
+- [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (Radford et al., 2019)
+- [Language Models are Few-shot Learners](https://arxiv.org/abs/2005.14165) (Brown et al., 2020)
+- [BLOOM: A 176B-parameter Open-access Multilingual Language Model](https://arxiv.org/abs/2211.05100) (Scao et al., 2022)
+- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (Touvron et al., 2023)
+- [Mistral 7B](https://arxiv.org/abs/2310.06825) (Jiang et al., 2023)
+
 #### 2.1.2. Text-to-text Generation
+
+- [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
+- [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (Lewis et al., 2019)
+- [Exploring the Limits of Transfer Learning with a Unified Text-to-text Transformer](https://arxiv.org/abs/1910.10683) (Raffel et al., 2019)
 
 #### 2.1.3. Image-to-text Generation
 
@@ -171,4 +196,7 @@
 
 ### 2.5. Multimodal
 
+#### 2.5.1. Multimodal-to-text
+
+- [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) (Liu et al., 2023)
 #### 2.5.1. Multimodal-to-multimodal Generation
