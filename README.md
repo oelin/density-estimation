@@ -29,6 +29,7 @@
 - [Diffusion Priors in Variational Autoencoders](https://arxiv.org/abs/2106.15671) (Wehenkel et al., 2021)
 - [A Variational Perspective on Diffusion-based Generative Models and Score Matching](https://arxiv.org/abs/2106.02808) (Huang et al., 2021)
 - [Variational Diffusion Models](https://arxiv.org/abs/2107.00630) (Kingma et al., 2021)
+- [Improved Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2102.09672) (Nichol et al., 2021)
 - [Learning Fast Samplers for Diffusion Models by Differentiating through Sample Quality](https://arxiv.org/abs/2202.05830) (Watson et al., 2022)
 - [Denoising Diffusion Implicit Models](https://arxiv.org/abs/2010.02502) (Song et al. 2022)
 - [Pseudo Numerical Methods for Diffusion Models on Manifolds](https://arxiv.org/abs/2202.09778) (Liu et al., 2022)
