@@ -1,5 +1,7 @@
 # Density Estimation
 
+> Note: for specific architectures implementing density estimation paradigms, check out [paperswithcode](https://paperswithcode.com).
+
 ## 1. Autoregressive Models
 
 - [A Neural Probabilistic Language Model](https://dl.acm.org/doi/pdf/10.5555/944919.944966) (Bengio et al., 2003)
