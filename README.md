@@ -1,8 +1,6 @@
-# Literature on Generative Models
+# Generative Modeling Theory
 
-## 1. Models
-
-### 1.1. Autoregressive Models
+## 1. Autoregressive Models
 
 - [A Neural Probabilistic Language Model](https://dl.acm.org/doi/pdf/10.5555/944919.944966) (Bengio et al., 2003)
 - [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509) (Germain et al., 2015)
@@ -14,7 +12,7 @@
 - [GIVT: Generative Infinite-vocabulary Transformers](https://arxiv.org/abs/2312.02116) (Tschannen et al., 2023)
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 
-### 1.2. Diffusion Models
+## 2. Diffusion Models
 
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) (Sohl-Dickstein et al., 2015)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (Chen et al., 2018)
@@ -46,13 +44,13 @@
 - [Rolling Diffusion Models](https://arxiv.org/abs/2402.09470) (Ruhe et al., 2024)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications (v12)](https://arxiv.org/pdf/2209.00796.pdf) (Yang et al., 2024)
 
-### 1.3. Energy-based Models
+## 3. Energy-based Models
 
 - [Self-regularizing Restricted Boltzmann Machines](https://arxiv.org/abs/1912.05634v1) (Loukas, 2019)
 - [Implicit Generation and Generalization in Energy-based Models](https://arxiv.org/abs/1903.08689) (Du et al., 2019)
 - [How to Train Your Energy-based Models](https://arxiv.org/abs/2101.03288) (Song et al., 2021)
 
-### 1.4. Generative Adversarial Networks
+## 4. Generative Adversarial Networks
 
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) (Goodfellow et al., 2014)
 - [Ten Years of GANs: A Survey of the State-of-the-art](https://export.arxiv.org/abs/2308.16316) (Chakraborty et al., 2023)
@@ -72,7 +70,7 @@
 - [GANILLA: Generative Adversarial Networks for Image to Illustration Translation](https://arxiv.org/abs/2002.05638) (Hicsonmez et al., 2020)
 - [Dynamically Grown Generative Adversarial Networks](https://arxiv.org/abs/2106.08505) (Liu et al., 2021)
 
-### 1.5. Neural Processes
+# 5. Neural Processes
 
 - [Neural Processes](https://arxiv.org/abs/1807.01622) (Garnelo et al., 2018)
 - [Conditional Neural Processes](https://arxiv.org/abs/1807.01613) (Garnelo et al., 2018)
@@ -80,7 +78,7 @@
 - [Neural Diffusion Processes](https://arxiv.org/abs/2206.03992) (Dutordoir et al., 2022)
 - [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517) (Jha et al., 2022)
 
-### 1.7. Normalizing Flows
+# 7. Normalizing Flows
 
 - [Density Estimation by Dual Ascent of the Log-likelihood](https://math.nyu.edu/~tabak/publications/CMSV8-1-10.pdf) (Tabak et al., 2010)
 - [A Family of Non-parametric Density Estimation Algorithms](https://math.nyu.edu/~tabak/publications/Tabak-Turner.pdf) (Tabak et al., 2013)
@@ -105,7 +103,7 @@
 - [Implicit Normalizing Flows](https://arxiv.org/abs/2103.09527) (Lu et al., 2021)
 - [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747.pdf) (Lipman et al., 2022)
 
-### 1.8. Variational Autoencoders
+## 8. Variational Autoencoders
 
 - [The Helmholtz Machine](https://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf) (Dayan et al., 1995)
 - [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/abs/1402.0030) (Mnih et al., 2014)
@@ -138,63 +136,11 @@
 - [Latent Variable Modelling using Variational Autoencoders: A Survey](https://arxiv.org/abs/2206.09891) (Kalingeri, 2022)
 - [Structured World Modeling via Semantic Vector Quantization](https://arxiv.org/abs/2402.01203) (Wu et al., 2024)
 
-### 1.9. Masked Generative Models
+## 9. Masked Generative Models
 
 - [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200) (Chang et al., 2022)
 - [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2402.01203) (Yu et al., 2022)
 - [SoundStorm: Efficient Parallel Audio Generation](https://arxiv.org/abs/2305.09636) (Borsos et al., 2022)
-
-## 2.  Architectures
-
-It's practically impossible to compile an exhaustive list of architecture since dozens are released every day. We refer readers to resources such as [paperswithcode](https://paperswithcode.com) and [Hugging Face](https://huggingface.co) for up-to-date research. As for us, we list a few architectures that made a "big splash" when they were released.
-
-### 2.1. Text
-
-#### 2.1.1. Text Generation
-
-- [Language Models are Unsupervised Multitask Learners](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) (Radford et al., 2019)
-- [Language Models are Few-shot Learners](https://arxiv.org/abs/2005.14165) (Brown et al., 2020)
-- [BLOOM: A 176B-parameter Open-access Multilingual Language Model](https://arxiv.org/abs/2211.05100) (Scao et al., 2022)
-- [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971) (Touvron et al., 2023)
-- [Mistral 7B](https://arxiv.org/abs/2310.06825) (Jiang et al., 2023)
-
-#### 2.1.2. Text-to-text Generation
-
-- [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
-- [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension](https://arxiv.org/abs/1910.13461) (Lewis et al., 2019)
-- [Exploring the Limits of Transfer Learning with a Unified Text-to-text Transformer](https://arxiv.org/abs/1910.10683) (Raffel et al., 2019)
-
-#### 2.1.3. Image-to-text Generation
-
-#### 2.1.4. Audio-to-text Generation
-
-### 2.2. Image
-
-#### 2.2.1. Image Generation
-
-#### 2.2.3. Text-to-image Generation
-
-#### 2.2.2. Image-to-image Generation
-
-### 2.3. Video
-
-#### 2.3.1. Video Generation
-
-#### 2.3.2. Text-to-video Generation
-
-#### 2.3.3. Video-to-video Generation
-
-#### 2.3.4. Image-to-video Generation
-
-### 2.4. Audio
-
-#### 2.4.1. Audio Generation
-
-#### 2.4.2. Text-to-audio Generation
-
-#### 2.4.3. Video-to-audio Generation
-
-### 2.5. Multimodal
 
 #### 2.5.1. Multimodal-to-text
 
