@@ -70,7 +70,13 @@
 - [GANILLA: Generative Adversarial Networks for Image to Illustration Translation](https://arxiv.org/abs/2002.05638) (Hicsonmez et al., 2020)
 - [Dynamically Grown Generative Adversarial Networks](https://arxiv.org/abs/2106.08505) (Liu et al., 2021)
 
-## 5. Neural Processes
+## 5. Masked Generative Models
+
+- [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200) (Chang et al., 2022)
+- [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2402.01203) (Yu et al., 2022)
+- [SoundStorm: Efficient Parallel Audio Generation](https://arxiv.org/abs/2305.09636) (Borsos et al., 2022)
+
+## 6. Neural Processes
 
 - [Neural Processes](https://arxiv.org/abs/1807.01622) (Garnelo et al., 2018)
 - [Conditional Neural Processes](https://arxiv.org/abs/1807.01613) (Garnelo et al., 2018)
@@ -135,14 +141,3 @@
 - [Disentangling Variational Autoencoders](https://arxiv.org/abs/2211.07700) (Pastrana, 2022)
 - [Latent Variable Modelling using Variational Autoencoders: A Survey](https://arxiv.org/abs/2206.09891) (Kalingeri, 2022)
 - [Structured World Modeling via Semantic Vector Quantization](https://arxiv.org/abs/2402.01203) (Wu et al., 2024)
-
-## 9. Masked Generative Models
-
-- [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200) (Chang et al., 2022)
-- [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2402.01203) (Yu et al., 2022)
-- [SoundStorm: Efficient Parallel Audio Generation](https://arxiv.org/abs/2305.09636) (Borsos et al., 2022)
-
-#### 2.5.1. Multimodal-to-text
-
-- [Visual Instruction Tuning](https://arxiv.org/abs/2304.08485) (Liu et al., 2023)
-#### 2.5.1. Multimodal-to-multimodal Generation
