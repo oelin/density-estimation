@@ -1,4 +1,4 @@
-# Generative Modeling Theory
+# Density Estimation
 
 ## 1. Autoregressive Models
 
