@@ -5,7 +5,7 @@
 ### 1.1. Autoregressive Models
 
 - [A Neural Probabilistic Language Model](https://dl.acm.org/doi/pdf/10.5555/944919.944966) (Bengio et al., 2003)
-- [MADE: Masked Autoencoder for Distribution Estimation](introduction to language model arxiv) (Germain et al., 2015)
+- [MADE: Masked Autoencoder for Distribution Estimation](https://arxiv.org/abs/1502.03509) (Germain et al., 2015)
 - [Neural Autoregressive Density Estimation](https://arxiv.org/abs/1605.02226) (Uria et al., 2016)
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
 - [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) (Gu et al., 2021)
