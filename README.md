@@ -70,7 +70,7 @@
 - [GANILLA: Generative Adversarial Networks for Image to Illustration Translation](https://arxiv.org/abs/2002.05638) (Hicsonmez et al., 2020)
 - [Dynamically Grown Generative Adversarial Networks](https://arxiv.org/abs/2106.08505) (Liu et al., 2021)
 
-# 5. Neural Processes
+## 5. Neural Processes
 
 - [Neural Processes](https://arxiv.org/abs/1807.01622) (Garnelo et al., 2018)
 - [Conditional Neural Processes](https://arxiv.org/abs/1807.01613) (Garnelo et al., 2018)
@@ -78,7 +78,7 @@
 - [Neural Diffusion Processes](https://arxiv.org/abs/2206.03992) (Dutordoir et al., 2022)
 - [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517) (Jha et al., 2022)
 
-# 7. Normalizing Flows
+## 7. Normalizing Flows
 
 - [Density Estimation by Dual Ascent of the Log-likelihood](https://math.nyu.edu/~tabak/publications/CMSV8-1-10.pdf) (Tabak et al., 2010)
 - [A Family of Non-parametric Density Estimation Algorithms](https://math.nyu.edu/~tabak/publications/Tabak-Turner.pdf) (Tabak et al., 2013)
