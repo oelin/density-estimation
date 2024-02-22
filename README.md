@@ -124,6 +124,7 @@ Literature on density estimation.
 - [Discrete Variational Autoencoders](https://arxiv.org/abs/1609.02200) (Rolfe, 2016)
 - [The Concrete Distribution: A Continuous Relaxation of Discrete Random Variables](https://arxiv.org/abs/1611.00712) (Maddison et al., 2016)
 - [Categorical Reparameterization with Gumbel-softmax](https://arxiv.org/abs/1611.01144) (Jang et al., 2016)
+- [Conditional Image Generation with Gated PixelCNN Decoders](https://arxiv.org/abs/1606.05328) (Oord et al., 2016)
 - [Neural Discrete Representation Learning](https://arxiv.org/abs/1711.00937) (van den Oord et al., 2017)
 - [VAE With a VampPrior](https://arxiv.org/abs/1705.07120) (Tomczak et al., 2017)
 - [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691) (Kingma et al., 2019)
