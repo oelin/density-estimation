@@ -17,7 +17,6 @@ Literature on density estimation.
 ## 2. Diffusion Models
 
 - [Deep Unsupervised Learning using Nonequilibrium Thermodynamics](https://arxiv.org/abs/1503.03585) (Sohl-Dickstein et al., 2015)
-- [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (Chen et al., 2018)
 - [Generative Modeling by Estimating the Gradients of the Data Distribution](https://arxiv.org/abs/1907.05600) (Song et al., 2019)
 - [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239) (Ho et al., 2020)
 - [Score-based Generative Modeling through Stochastic Differential Equations](https://arxiv.org/abs/2011.13456) (Song et al., 2020)
@@ -95,6 +94,7 @@ Literature on density estimation.
 - [Density Modeling of Images using a Generalized Normalization Transformation](https://arxiv.org/abs/1511.06281) (Balle et al., 2016)
 - [Density Estimation Using Real NVP](https://arxiv.org/abs/1605.08803) (Dinh et al., 2016)
 - [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039) (Kingma et al., 2018)
+- [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (Chen et al., 2018)
 - [A RAD Approach to Deep Mixture Models](https://arxiv.org/abs/1903.07714) (Dinh et al., 2019)
 - [Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.csail.mit.edu/papers/volume22/19-1028/19-1028.pdf) (Papamakarios et al., 2019)
 - [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) (Kobyzev et al., 2019)
