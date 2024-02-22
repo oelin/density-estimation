@@ -1,6 +1,6 @@
 # Density Estimation
 
-> Note: for specific architectures implementing density estimation paradigms, check out [paperswithcode](https://paperswithcode.com).
+Literature on density estimation.
 
 ## 1. Autoregressive Models
 
