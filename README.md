@@ -46,6 +46,8 @@ Literature on density estimation.
 - [Rolling Diffusion Models](https://arxiv.org/abs/2402.09470) (Ruhe et al., 2024)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications (v12)](https://arxiv.org/pdf/2209.00796.pdf) (Yang et al., 2024)
 - [FiT: Flexible Vision Transformer for Diffusion Model](https://arxiv.org/abs/2402.12376v1) (Lu et al., 2024)
+- [Structure Preserving Diffusion Models](https://arxiv.org/abs/2402.19369) (Lu et al., 2024)
+- [Trajectory Consistency Distilation](https://arxiv.org/abs/2402.19159) (Zheng et al., 2024)
 
 ## 3. Energy-based Models
 
