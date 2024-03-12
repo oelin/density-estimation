@@ -40,6 +40,8 @@ Literature on density estimation.
 - [Progressive Distillation for Fast Sampling of Diffusion Models](https://arxiv.org/abs/2202.00512) (Salimans et al., 2022)
 - [On Distillation of Guided Diffusion Models](https://arxiv.org/abs/2210.03142) (Meng et al., 2022)
 - [Concrete Score Matching: Generalized Score Matching for Discrete Data](https://arxiv.org/abs/2211.00802) (Meng et al., 2022)
+- [Generative Modelling with Inverse Heat Dissipation](https://arxiv.org/abs/2206.13397) (Rissanen et al., 2022)
+- [Blurring Diffusion Models](https://arxiv.org/abs/2209.05557) (Hoogeboom et al., 2022)
 - [Consistency Models](https://arxiv.org/abs/2303.01469) (Song et al., 2023)
 - [BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping](https://arxiv.org/abs/2306.05544) (Gu et al., 2023)
 - [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/pdf?id=WH1yCa0TbB) (Liu et al., 2023)
@@ -148,3 +150,8 @@ Literature on density estimation.
 - [Disentangling Variational Autoencoders](https://arxiv.org/abs/2211.07700) (Pastrana, 2022)
 - [Latent Variable Modelling using Variational Autoencoders: A Survey](https://arxiv.org/abs/2206.09891) (Kalingeri, 2022)
 - [Structured World Modeling via Semantic Vector Quantization](https://arxiv.org/abs/2402.01203) (Wu et al., 2024)
+
+## 9. Optimization-based Models
+
+-[VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](https://arxiv.org/abs/2204.08583) (Crowson et al., 2021)
+
