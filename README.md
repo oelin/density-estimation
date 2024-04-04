@@ -14,6 +14,7 @@ Literature on density estimation.
 - [GIVT: Generative Infinite-vocabulary Transformers](https://arxiv.org/abs/2312.02116) (Tschannen et al., 2023)
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
 - [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/2404.02905) (Tian et al., 2024)
+- [VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild](https://arxiv.org/abs/2403.16973v1) (Peng et al., 2024)
 
 ## 2. Diffusion Models
 
