@@ -13,6 +13,7 @@ Literature on density estimation.
 - [Mamba: Linear-time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) (Gu et al., 2023)
 - [GIVT: Generative Infinite-vocabulary Transformers](https://arxiv.org/abs/2312.02116) (Tschannen et al., 2023)
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
+- [Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction](https://arxiv.org/2404.02905) (Tian et al., 2024)
 
 ## 2. Diffusion Models
 
