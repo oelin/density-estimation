@@ -50,6 +50,7 @@ Literature on density estimation.
 - [BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping](https://arxiv.org/abs/2306.05544) (Gu et al., 2023)
 - [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/pdf?id=WH1yCa0TbB) (Liu et al., 2023)
 - [GenPhys: From Physical Processes to Generative Models](https://arxiv.org/abs/2304.02637) (Ziming et al., 2023)
+- [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/abs/2303.00848) (Kingma et al., 2023)
 - [Rolling Diffusion Models](https://arxiv.org/abs/2402.09470) (Ruhe et al., 2024)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications (v12)](https://arxiv.org/pdf/2209.00796.pdf) (Yang et al., 2024)
 - [FiT: Flexible Vision Transformer for Diffusion Model](https://arxiv.org/abs/2402.12376v1) (Lu et al., 2024)
