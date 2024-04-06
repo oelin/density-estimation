@@ -106,6 +106,7 @@ Literature on density estimation.
 - [Density Estimation Using Real NVP](https://arxiv.org/abs/1605.08803) (Dinh et al., 2016)
 - [Glow: Generative Flow with Invertible 1x1 Convolutions](https://arxiv.org/abs/1807.03039) (Kingma et al., 2018)
 - [Neural Ordinary Differential Equations](https://arxiv.org/abs/1806.07366) (Chen et al., 2018)
+- [FFJORD: Free-form Continuous Dynamics for Scalable Reversible Generative Models](https://arxiv.org/abs/1810.01367) (Grathwohl et al., 2018)
 - [A RAD Approach to Deep Mixture Models](https://arxiv.org/abs/1903.07714) (Dinh et al., 2019)
 - [Normalizing Flows for Probabilistic Modeling and Inference](https://jmlr.csail.mit.edu/papers/volume22/19-1028/19-1028.pdf) (Papamakarios et al., 2019)
 - [Normalizing Flows: An Introduction and Review of Current Methods](https://arxiv.org/abs/1908.09257) (Kobyzev et al., 2019)
@@ -159,4 +160,3 @@ Literature on density estimation.
 ## 9. Optimization-based Models
 
 -[VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](https://arxiv.org/abs/2204.08583) (Crowson et al., 2021)
-
