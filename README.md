@@ -44,14 +44,18 @@ Literature on density estimation.
 - [Concrete Score Matching: Generalized Score Matching for Discrete Data](https://arxiv.org/abs/2211.00802) (Meng et al., 2022)
 - [Generative Modelling with Inverse Heat Dissipation](https://arxiv.org/abs/2206.13397) (Rissanen et al., 2022)
 - [Blurring Diffusion Models](https://arxiv.org/abs/2209.05557) (Hoogeboom et al., 2022)
+- [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747.pdf) (Lipman et al., 2022)
+- [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003) (Liu et al., 2022)
 - [Consistency Models](https://arxiv.org/abs/2303.01469) (Song et al., 2023)
 - [BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping](https://arxiv.org/abs/2306.05544) (Gu et al., 2023)
 - [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/pdf?id=WH1yCa0TbB) (Liu et al., 2023)
+- [GenPhys: From Physical Processes to Generative Models](https://arxiv.org/abs/2304.02637) (Ziming et al., 2023)
 - [Rolling Diffusion Models](https://arxiv.org/abs/2402.09470) (Ruhe et al., 2024)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications (v12)](https://arxiv.org/pdf/2209.00796.pdf) (Yang et al., 2024)
 - [FiT: Flexible Vision Transformer for Diffusion Model](https://arxiv.org/abs/2402.12376v1) (Lu et al., 2024)
 - [Structure Preserving Diffusion Models](https://arxiv.org/abs/2402.19369) (Lu et al., 2024)
 - [Trajectory Consistency Distilation](https://arxiv.org/abs/2402.19159) (Zheng et al., 2024)
+
 
 ## 3. Energy-based Models
 
@@ -117,7 +121,6 @@ Literature on density estimation.
 - [Multi-resolution Normalizing Flows](https://arxiv.org/abs/2106.08462) (Voleti et al., 2021)
 - [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579) (Zhang et al., 2021)
 - [Implicit Normalizing Flows](https://arxiv.org/abs/2103.09527) (Lu et al., 2021)
-- [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747.pdf) (Lipman et al., 2022)
 
 ## 8. Variational Autoencoders
 
