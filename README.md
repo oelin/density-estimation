@@ -51,12 +51,14 @@ Literature on density estimation.
 - [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/pdf?id=WH1yCa0TbB) (Liu et al., 2023)
 - [GenPhys: From Physical Processes to Generative Models](https://arxiv.org/abs/2304.02637) (Ziming et al., 2023)
 - [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/abs/2303.00848) (Kingma et al., 2023)
+- [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation
+](https://arxiv.org/abs/2303.00848) (Kingma et al., 2023)
 - [Rolling Diffusion Models](https://arxiv.org/abs/2402.09470) (Ruhe et al., 2024)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications (v12)](https://arxiv.org/pdf/2209.00796.pdf) (Yang et al., 2024)
 - [FiT: Flexible Vision Transformer for Diffusion Model](https://arxiv.org/abs/2402.12376v1) (Lu et al., 2024)
 - [Structure Preserving Diffusion Models](https://arxiv.org/abs/2402.19369) (Lu et al., 2024)
 - [Trajectory Consistency Distilation](https://arxiv.org/abs/2402.19159) (Zheng et al., 2024)
-
+- [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) (Esser et al., 2024)
 
 ## 3. Energy-based Models
 
@@ -123,6 +125,7 @@ Literature on density estimation.
 - [Multi-resolution Normalizing Flows](https://arxiv.org/abs/2106.08462) (Voleti et al., 2021)
 - [Diffusion Normalizing Flow](https://arxiv.org/abs/2110.07579) (Zhang et al., 2021)
 - [Implicit Normalizing Flows](https://arxiv.org/abs/2103.09527) (Lu et al., 2021)
+- [Neural Flows: Efficient Alternative to Neural ODEs](https://arxiv.org/abs/2110.13040) (Bilos et al., 2021)
 
 ## 8. Variational Autoencoders
 
