@@ -88,6 +88,7 @@ Literature on density estimation.
 - [Self-attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) (Zhang et al., 2018)
 - [GANILLA: Generative Adversarial Networks for Image to Illustration Translation](https://arxiv.org/abs/2002.05638) (Hicsonmez et al., 2020)
 - [Dynamically Grown Generative Adversarial Networks](https://arxiv.org/abs/2106.08505) (Liu et al., 2021)
+- [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](https://arxiv.org/abs/2204.08583) (Crowson et al., 2021)
 
 ## 5. Masked Generative Models
 
@@ -163,7 +164,3 @@ Literature on density estimation.
 - [Disentangling Variational Autoencoders](https://arxiv.org/abs/2211.07700) (Pastrana, 2022)
 - [Latent Variable Modelling using Variational Autoencoders: A Survey](https://arxiv.org/abs/2206.09891) (Kalingeri, 2022)
 - [Structured World Modeling via Semantic Vector Quantization](https://arxiv.org/abs/2402.01203) (Wu et al., 2024)
-
-## 9. Optimization-based Models
-
--[VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](https://arxiv.org/abs/2204.08583) (Crowson et al., 2021)
