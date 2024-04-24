@@ -62,6 +62,7 @@ Literature on density estimation.
 - [Structure Preserving Diffusion Models](https://arxiv.org/abs/2402.19369) (Lu et al., 2024)
 - [Trajectory Consistency Distilation](https://arxiv.org/abs/2402.19159) (Zheng et al., 2024)
 - [Scaling Rectified Flow Transformers for High-Resolution Image Synthesis](https://arxiv.org/abs/2403.03206) (Esser et al., 2024)
+- [Align Your Steps: Optimizing Sampling Schedules in Diffusion Models](https://arxiv.org/abs/2404.14507) (Sabour et al., 2024)
 
 ## 3. Energy-based Models
 
