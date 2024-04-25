@@ -102,6 +102,7 @@ Literature on density estimation.
 - [Attentive Neural Processes](https://arxiv.org/abs/1901.05761) (Kim et al., 2019)
 - [Neural Diffusion Processes](https://arxiv.org/abs/2206.03992) (Dutordoir et al., 2022)
 - [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517) (Jha et al., 2022)
+- [Spectral Convolutional Conditional Neural Processes](https://arxiv.org/abs/2404.13182v1) (Mohseni et al., 2024)
 
 ## 7. Normalizing Flows
 
