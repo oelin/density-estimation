@@ -49,6 +49,7 @@ Literature on density estimation.
 - [Blurring Diffusion Models](https://arxiv.org/abs/2209.05557) (Hoogeboom et al., 2022)
 - [Flow Matching for Generative Modeling](https://arxiv.org/pdf/2210.02747.pdf) (Lipman et al., 2022)
 - [Flow Straight and Fast: Learning to Generate and Transfer Data with Rectified Flow](https://arxiv.org/abs/2209.03003) (Liu et al., 2022)
+- [Diffusion Autoencoders: Toward a Meaningful and Decodable Representation](https://openaccess.thecvf.com/content/CVPR2022/papers/Preechakul_Diffusion_Autoencoders_Toward_a_Meaningful_and_Decodable_Representation_CVPR_2022_paper.pdf) (Preechakul et al., 2022)
 - [Consistency Models](https://arxiv.org/abs/2303.01469) (Song et al., 2023)
 - [BOOT: Data-free Distillation of Denoising Diffusion Models with Bootstrapping](https://arxiv.org/abs/2306.05544) (Gu et al., 2023)
 - [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/pdf?id=WH1yCa0TbB) (Liu et al., 2023)
