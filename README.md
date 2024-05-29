@@ -78,6 +78,7 @@ Literature on density estimation.
 - [Self-regularizing Restricted Boltzmann Machines](https://arxiv.org/abs/1912.05634v1) (Loukas, 2019)
 - [Implicit Generation and Generalization in Energy-based Models](https://arxiv.org/abs/1903.08689) (Du et al., 2019)
 - [How to Train Your Energy-based Models](https://arxiv.org/abs/2101.03288) (Song et al., 2021)
+- [Learning Latent Space Hierarchical EBM Diffusion Models](https://arxiv.org/abs/2405.13910) (Cui et al., 2024)
 
 ## 4. Generative Adversarial Networks
 
