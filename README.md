@@ -65,6 +65,7 @@ Literature on density estimation.
 - [Variational Schrödinger Diffusion Models](https://arxiv.org/pdf/2405.04795) (Deng et al., 2024)
 - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://arxiv.org/pdf/2405.05224) (Kohler et al., 2024)
 - [Characteristic Learning for Provable One Step Generation](https://arxiv.org/abs/2405.05512v1) (Ding et al., 2024)
+- [Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation](https://arxiv.org/abs/2405.17842) (Hayakawa et al., 2024)
 
 ## 3. Energy-based Models
 
