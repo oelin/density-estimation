@@ -1,6 +1,4 @@
-# Density Estimation
-
-Literature on density estimation.
+# Paradigms for Generative Modeling
 
 ## 1. Autoregressive Models
 
