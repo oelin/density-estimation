@@ -66,6 +66,8 @@ Literature on density estimation.
 - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://arxiv.org/pdf/2405.05224) (Kohler et al., 2024)
 - [Characteristic Learning for Provable One Step Generation](https://arxiv.org/abs/2405.05512v1) (Ding et al., 2024)
 - [Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation](https://arxiv.org/abs/2405.17842) (Hayakawa et al., 2024)
+- [Phased Consistency Models](https://arxiv.org/abs/2405.18407) (Wang et al., 2024)
+- [UDPM: Upsampling Diffusion Probabilistic Models](https://arxiv.org/abs/2305.16269) (Abu-Hussein et al., 2024)
 
 ## 3. Energy-based Models
 
