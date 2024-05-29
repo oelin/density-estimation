@@ -9,7 +9,9 @@ Literature on density estimation.
 - [Neural Autoregressive Density Estimation](https://arxiv.org/abs/1605.02226) (Uria et al., 2016)
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) (Vaswani et al., 2017)
 - [Efficiently Modeling Long Sequences with Structured State Spaces](https://arxiv.org/abs/2111.00396) (Gu et al., 2021)
-- [Spectral State Space Models](https://arxiv.org/abs/2312.06837v2) (Agarwal et al., 2023)
+- [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200) (Chang et al., 2022)
+- [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2402.01203) (Yu et al., 2022)
+- [SoundStorm: Efficient Parallel Audio Generation](https://arxiv.org/abs/2305.09636) (Borsos et al., 2022)
 - [Mamba: Linear-time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752) (Gu et al., 2023)
 - [GIVT: Generative Infinite-vocabulary Transformers](https://arxiv.org/abs/2312.02116) (Tschannen et al., 2023)
 - [Retentive Network: A Successor to Transformer for Large Language Models](https://arxiv.org/abs/2307.08621)
@@ -65,6 +67,7 @@ Literature on density estimation.
 - [Variational Schrödinger Diffusion Models](https://arxiv.org/pdf/2405.04795) (Deng et al., 2024)
 - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://arxiv.org/pdf/2405.05224) (Kohler et al., 2024)
 - [Characteristic Learning for Provable One Step Generation](https://arxiv.org/abs/2405.05512v1) (Ding et al., 2024)
+- [Masked Diffusion Models Are Fast Distribution Learners](
 - [Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation](https://arxiv.org/abs/2405.17842) (Hayakawa et al., 2024)
 - [Phased Consistency Models](https://arxiv.org/abs/2405.18407) (Wang et al., 2024)
 - [UDPM: Upsampling Diffusion Probabilistic Models](https://arxiv.org/abs/2305.16269) (Abu-Hussein et al., 2024)
@@ -96,13 +99,7 @@ Literature on density estimation.
 - [Dynamically Grown Generative Adversarial Networks](https://arxiv.org/abs/2106.08505) (Liu et al., 2021)
 - [VQGAN-CLIP: Open Domain Image Generation and Editing with Natural Language Guidance](https://arxiv.org/abs/2204.08583) (Crowson et al., 2021)
 
-## 5. Masked Generative Models
-
-- [MaskGIT: Masked Generative Image Transformer](https://arxiv.org/abs/2202.04200) (Chang et al., 2022)
-- [MAGVIT: Masked Generative Video Transformer](https://arxiv.org/abs/2402.01203) (Yu et al., 2022)
-- [SoundStorm: Efficient Parallel Audio Generation](https://arxiv.org/abs/2305.09636) (Borsos et al., 2022)
-
-## 6. Neural Processes
+## 5. Neural Processes
 
 - [Neural Processes](https://arxiv.org/abs/1807.01622) (Garnelo et al., 2018)
 - [Conditional Neural Processes](https://arxiv.org/abs/1807.01613) (Garnelo et al., 2018)
@@ -111,7 +108,7 @@ Literature on density estimation.
 - [The Neural Process Family: Survey, Applications and Perspectives](https://arxiv.org/abs/2209.00517) (Jha et al., 2022)
 - [Spectral Convolutional Conditional Neural Processes](https://arxiv.org/abs/2404.13182v1) (Mohseni et al., 2024)
 
-## 7. Normalizing Flows
+## 6. Normalizing Flows
 
 - [Density Estimation by Dual Ascent of the Log-likelihood](https://math.nyu.edu/~tabak/publications/CMSV8-1-10.pdf) (Tabak et al., 2010)
 - [A Family of Non-parametric Density Estimation Algorithms](https://math.nyu.edu/~tabak/publications/Tabak-Turner.pdf) (Tabak et al., 2013)
@@ -138,7 +135,7 @@ Literature on density estimation.
 - [Implicit Normalizing Flows](https://arxiv.org/abs/2103.09527) (Lu et al., 2021)
 - [Neural Flows: Efficient Alternative to Neural ODEs](https://arxiv.org/abs/2110.13040) (Bilos et al., 2021)
 
-## 8. Variational Autoencoders
+## 7. Variational Autoencoders
 
 - [The Helmholtz Machine](https://www.gatsby.ucl.ac.uk/~dayan/papers/hm95.pdf) (Dayan et al., 1995)
 - [Neural Variational Inference and Learning in Belief Networks](https://arxiv.org/abs/1402.0030) (Mnih et al., 2014)
