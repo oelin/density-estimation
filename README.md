@@ -57,6 +57,7 @@ Literature on density estimation.
 - [Learning Diffusion Bridges on Constrained Domains](https://openreview.net/pdf?id=WH1yCa0TbB) (Liu et al., 2023)
 - [GenPhys: From Physical Processes to Generative Models](https://arxiv.org/abs/2304.02637) (Ziming et al., 2023)
 - [Understanding Diffusion Objectives as the ELBO with Simple Data Augmentation](https://arxiv.org/abs/2303.00848) (Kingma et al., 2023)
+- [Masked Diffusion Models Are Fast Distribution Learners](https://arxiv.org/abs/2306.11363) (Lei et al., 2024)
 - [Rolling Diffusion Models](https://arxiv.org/abs/2402.09470) (Ruhe et al., 2024)
 - [Diffusion Models: A Comprehensive Survey of Methods and Applications (v12)](https://arxiv.org/pdf/2209.00796.pdf) (Yang et al., 2024)
 - [FiT: Flexible Vision Transformer for Diffusion Model](https://arxiv.org/abs/2402.12376v1) (Lu et al., 2024)
@@ -67,7 +68,6 @@ Literature on density estimation.
 - [Variational Schrödinger Diffusion Models](https://arxiv.org/pdf/2405.04795) (Deng et al., 2024)
 - [Imagine Flash: Accelerating Emu Diffusion Models with Backward Distillation](https://arxiv.org/pdf/2405.05224) (Kohler et al., 2024)
 - [Characteristic Learning for Provable One Step Generation](https://arxiv.org/abs/2405.05512v1) (Ding et al., 2024)
-- [Masked Diffusion Models Are Fast Distribution Learners](
 - [Discriminator-Guided Cooperative Diffusion for Joint Audio and Video Generation](https://arxiv.org/abs/2405.17842) (Hayakawa et al., 2024)
 - [Phased Consistency Models](https://arxiv.org/abs/2405.18407) (Wang et al., 2024)
 - [UDPM: Upsampling Diffusion Probabilistic Models](https://arxiv.org/abs/2305.16269) (Abu-Hussein et al., 2024)
